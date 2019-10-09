@@ -1,0 +1,35 @@
+body{
+    margin-bottom: 150px;
+}
+section{
+    background-color: lightgray;
+    padding: 15px;
+    text-align: center;
+    margin: 10px;
+}
+button{
+    padding: 14px 25px;
+    font-size: 18px;
+}
+
+figure{
+    border: 2px solid black;
+    width: 500px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px;
+}
+figure:hover{
+    box-shadow: 0 0 10px black;
+}
+figure figcaption{
+    font-size: 22px;
+    padding: 10px;
+    font-weight: bold;
+}
+img{
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+
+}
